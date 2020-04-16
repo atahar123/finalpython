@@ -19,7 +19,7 @@ sudo mkdir /home/vagrant/Downloads
 sudo pip3 install -r /home/ubuntu/app/requirements.txt
 
 # #promissions to read and write
-# sudo chmod 777 Downloads/
+sudo chmod 777 Downloads/
 #
 # #run tests
 # python3 -m pytest tests/
