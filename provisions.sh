@@ -16,7 +16,7 @@ sudo apt-get install git -y
 sudo mkdir /home/vagrant/Downloads
 
 #install requirements in app
-sudo pip3 install -r /home/ubuntu/it-jobs-watch-code/requirements.txt
+sudo pip3 install -r /home/ubuntu/app/requirements.txt
 
 # #promissions to read and write
 # sudo chmod 777 Downloads/
