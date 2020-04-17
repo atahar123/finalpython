@@ -36,11 +36,5 @@ Output of app and report can be found here:
 
 ##
 testtext
-testtext1
 hi
-another text
-on mine nowwww
-on mine nowwww
-helloooo
 hi
-more things
