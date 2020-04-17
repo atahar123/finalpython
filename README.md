@@ -36,3 +36,6 @@ Output of app and report can be found here:
 
 ##
 testtext
+hi
+hello
+hello
