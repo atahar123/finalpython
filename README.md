@@ -36,16 +36,3 @@ Output of app and report can be found here:
 
 ##
 testtext
-hi
-hi
-hellooooo
-helloooo
-testset
-superman
-some text
-dsfsd 
-helooo
-helooo
-please workkkk
-hello
-hello
