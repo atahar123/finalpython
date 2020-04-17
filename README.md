@@ -39,3 +39,4 @@ testtext
 hi
 hello
 hello
+hello
