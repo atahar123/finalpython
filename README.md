@@ -47,3 +47,8 @@ hiii
 testtext
 hello
 superman
+hello
+hiii
+hi
+test
+hello
