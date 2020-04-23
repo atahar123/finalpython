@@ -1,0 +1,7 @@
+DEPENDENCIES
+  it-job-watch-cookbook-environment
+    git: git@github.com:atahar123/it-job-watch-cookbook-environment.git
+    revision: d3a8841f7db8f6b84631b069d5506022584e8f78
+
+GRAPH
+  it-job-watch-cookbook-environment (0.1.0)
